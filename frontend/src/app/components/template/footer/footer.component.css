@@ -1,0 +1,22 @@
+.footer{
+    border-top:5px solid slateblue;
+    position: fixed;
+    bottom: 0;
+    justify-content: right;
+    background-color: rgb(red, green, blue);
+    font-family: monospace;
+    font-weight: 300;
+    font-size: 1rem;
+}
+.footer a{
+    background-color: slateblue;
+    padding: 2px;
+    padding-left: 10px;
+    text-decoration: none;
+    color:blanchedalmond;
+}
+.footer span{
+    border-bottom:1px solid slateblue;
+    padding: 0 10px 0 10px;
+ 
+}

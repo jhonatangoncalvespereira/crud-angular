@@ -1,12 +1,10 @@
 .header{
     display: flex;
     align-items: center;
-
+    padding-top: 10px;
+    background-color: slateblue;
 }
 
-.header a{
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.header .logo{
+    font-family:  monospace ;
 }
