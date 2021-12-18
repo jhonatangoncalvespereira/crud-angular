@@ -8,3 +8,6 @@
 - TypeScript
 - CSS3
 - HTML5
+
+
+Por [Jhonatan Gonçalves Pereira](https://www.linkedin.com/in/jhonatan-goncalves-pereira/)
