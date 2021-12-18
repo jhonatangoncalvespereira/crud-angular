@@ -6,5 +6,5 @@
 ## Tecnologias
 
 - TypeScript
-- Javascript
-- 
+- CSS3
+- HTML5
